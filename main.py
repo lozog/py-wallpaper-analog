@@ -1,3 +1,5 @@
+# taken from https://stackoverflow.com/a/41406282
+
 import time;
 import ctypes;
 SPI_SETDESKWALLPAPER = 20
